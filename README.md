@@ -1,5 +1,37 @@
 ## Hi there 👋
+# Hi, welcome! 👋
 
+![Profile Banner](URL_TO_YOUR_BANNER_IMAGE)
+
+## About ME 👁‍🗨
+
+- 🌍 22 years old Penetration Tester & Game Dev Enthusiast from Morocco.
+- 🎓 Learning at:
+  - **[School/University Name]**
+  - **Grade**: Learner
+  - **Level**: 12% (or your current level)
+
+## Languages & Tools 🛠️🎨:
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual%20Studio%20Code)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+
+## Contact Me 📫:
+you can contact me through the following platforms:
+- [![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=Gmail)](salmanelouham1@gmail.com)
+- [![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)]([https://www.instagram.com/your-instagram](https://www.instagram.com/salmane.1/))
+- [![Steam](https://img.shields.io/badge/-Steam-000?&logo=Steam)](https://steamcommunity.com/id/your-steam-id)
+
+## GitHub Stats 📊:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+
+## Achievements 🏆:
+![Achievements](URL_TO_YOUR_ACHIEVEMENTS_IMAGE)
 <!--
 **salmane10/salmane10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
