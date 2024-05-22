@@ -7,9 +7,9 @@
 
 - 🌍 22 years old Penetration Tester & Game Dev Enthusiast from Morocco.
 - 🎓 Learning at:
-  - **[School/University Name]**
+  - **[1337 Coding School]**
   - **Grade**: Learner
-  - **Level**: 12% (or your current level)
+  - **Level**: 2.52 %
 
 ## Languages & Tools 🛠️🎨:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
