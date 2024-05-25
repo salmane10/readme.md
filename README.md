@@ -1,5 +1,5 @@
-## Hi there 👋
-# Hi, welcome! 👋
+
+# Hello & welcome! 👋
 
 ![Profile Banner](URL_TO_YOUR_BANNER_IMAGE)
 
