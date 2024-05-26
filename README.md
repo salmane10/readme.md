@@ -1,7 +1,7 @@
 
 # Hello & welcome! 👋
 
-![Profile Banner]()
+![Profile Banner](src="https://media0.giphy.com/media/WbDhQjgBrpUuk/200.gif?cid=790b7611esjk8ngsfpkjlhajw3ckmk4al0gjjtdoj092drll&ep=v1_gifs_search&rid=200.gif&ct=g")
 
 ## About ME 👁‍🗨
 
