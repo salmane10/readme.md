@@ -1,7 +1,7 @@
 
 # Hello & welcome! 👋
 
-![Profile Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2FTOEIAnimationUK-dragon-ball-z-son-goku-U3UP4fTE6QfuoooLaC&psig=AOvVaw385X_Mxa7LabF8VXTnhw6q&ust=1716796957006000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDCg5jtqoYDFQAAAAAdAAAAABAE)
+![Profile Banner]()
 
 ## About ME 👁‍🗨
 
