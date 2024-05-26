@@ -1,7 +1,7 @@
 
 # Hello & welcome! 👋
 
-![Profile Banner](URL_TO_YOUR_BANNER_IMAGE)
+![Profile Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2FTOEIAnimationUK-dragon-ball-z-son-goku-U3UP4fTE6QfuoooLaC&psig=AOvVaw385X_Mxa7LabF8VXTnhw6q&ust=1716796957006000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDCg5jtqoYDFQAAAAAdAAAAABAE)
 
 ## About ME 👁‍🗨
 
@@ -24,7 +24,6 @@
 you can contact me through the following platforms:
 - [![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=Gmail)](salmanelouham1@gmail.com)
 - [![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)]([https://www.instagram.com/your-instagram](https://www.instagram.com/salmane.1/))
-- [![Steam](https://img.shields.io/badge/-Steam-000?&logo=Steam)](https://steamcommunity.com/id/your-steam-id)
 
 ## GitHub Stats 📊:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
