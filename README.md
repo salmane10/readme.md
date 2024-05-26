@@ -1,7 +1,7 @@
 
 # Hello & welcome! 👋
 
-![Profile Banner](https://raw.githubusercontent.com/salmane10/salmane10/main/images.jpeg)
+![Profile Banner]([https://raw.githubusercontent.com/salmane10/salmane10/main/images.jpeg](https://raw.githubusercontent.com/salmane10/salmane10/main/giphy.gif))
 
 ## About ME 👁‍🗨
 
