@@ -5,11 +5,6 @@
 
 ## About ME 👁‍🗨
 ![intra Banner](https://raw.githubusercontent.com/salmane10/salmane10/main/.github/v1.svg)
-- 🌍 22 years old Penetration Tester & Game Dev Enthusiast from Morocco.
-- 🎓 Learning at:
-  - **[1337 Coding School]**
-  - **Grade**: Learner
-  - **Level**: 2.52 %
 
 ## Languages & Tools 🛠️🎨:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
