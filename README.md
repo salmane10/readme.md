@@ -1,5 +1,5 @@
 
-# Hello & welcome! 👋
+# Hello & welcome 
 
 ![Profile Banner](https://raw.githubusercontent.com/salmane10/salmane10/main/giphy.gif)
 
@@ -20,9 +20,6 @@ you can contact me through the following platforms:
 - [![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=Gmail)](salmanelouham1@gmail.com)
 - [![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)]([https://www.instagram.com/your-instagram](https://www.instagram.com/salmane.1/))
 
-## GitHub Stats 📊:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
 
 ## Achievements 🏆:
 ![Achievements](URL_TO_YOUR_ACHIEVEMENTS_IMAGE)
