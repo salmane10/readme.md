@@ -1,7 +1,7 @@
 
 # Hello & welcome 
 
-![Profile Banner](https://raw.githubusercontent.com/salmane10/salmane10/main/giphy.gif)
+I'm Salmane, a passionate software developer with a knack for problem-solving and a love for clean, efficient code. I'm always eager to learn new technologies and collaborate on exciting projects.
 
 ## About ME 👁‍🗨
 ![intra Banner](https://raw.githubusercontent.com/salmane10/salmane10/main/.github/v1.svg)
